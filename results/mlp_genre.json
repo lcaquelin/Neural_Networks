@@ -1,0 +1,14 @@
+{
+  "model": "mlp_pool4_256_128",
+  "label": "genre",
+  "test_accuracy": 0.2687,
+  "cpu_ms_per_image": 0.12,
+  "n_parameters": 821003,
+  "size_mb": 3.3,
+  "train_time_s": 3.0,
+  "n_classes": 11,
+  "img_size": 128,
+  "pool_size": 4,
+  "n_epochs": 13,
+  "val_accuracy": 0.2661
+}
