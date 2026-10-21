@@ -1,0 +1,13 @@
+{
+  "model": "resnet18_finetuned_lr1e-4",
+  "test_accuracy": 0.5859,
+  "cpu_ms_per_image": 15.51,
+  "n_parameters": 11182155,
+  "size_mb": 44.7,
+  "train_time_s": 98.1,
+  "n_classes": 11,
+  "img_size": 128,
+  "val_acc_head_only": 0.5706,
+  "val_acc_finetuned_lr1e-4": 0.5847,
+  "val_acc_finetuned_lr1e-5": 0.5645
+}
