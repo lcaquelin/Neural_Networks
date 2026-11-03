@@ -1,0 +1,10 @@
+{
+  "model": "resnet18_style_read_as_style_bis",
+  "label": "style_bis",
+  "test_accuracy": 0.4767,
+  "test_top3_accuracy": 0.7576,
+  "mean_accuracy_per_class": 0.4281,
+  "n_classes": 18,
+  "img_size": 128,
+  "note": "ResNet18 trained on the 27 styles; probabilities summed by style bis, no retraining"
+}
